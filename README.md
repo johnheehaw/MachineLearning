@@ -1,4 +1,4 @@
-# MachineLearning
-Coursera Machine Learning course - Oct 2015
+# Machine Learning
 
-TO BE REPLACED
+Please see my assignment write-up here:
+<http://johnheehaw.github.io/MachineLearning/>
